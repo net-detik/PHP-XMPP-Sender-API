@@ -1,5 +1,5 @@
 <?php
-require_once('api.php');
+require_once('api.class.php');
 
 $params['user']		='user@xabber.org';
 $params['password']	='12345';
